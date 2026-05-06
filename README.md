@@ -1,1 +1,1 @@
-# htb-acedemy-modules
+# htb-academy-modules

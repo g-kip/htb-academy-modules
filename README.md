@@ -6,6 +6,7 @@ This repository contains my detailed writeups — organized by module, focused o
 
 ## Modules
 
+- [Intro To Network Traffic Analysis](./Intro%20to%20Network%20Traffic%20Analysis)
 - [Pentest In A Nutshell](./Pentest%20in%20a%20Nutshell)
 
 
